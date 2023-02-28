@@ -1,4 +1,4 @@
-#include "server/server.hpp"
+#include "server/server.hpp" yay
 
 Server serv;
 
